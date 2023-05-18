@@ -3,7 +3,7 @@ body {
 }
 .cover{
     height: 400px;
-    background-image: url(C:/Users/LAB-E/Desktop/sito_web/img/daniela.jpg);
+    background-image: url("C:/Users/ALUMNOS/Desktop/sito_web/img/daniela.jpg");
     color: white;
     background-size: cover;
     background-position: center;
